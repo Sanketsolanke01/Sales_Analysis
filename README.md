@@ -14,13 +14,13 @@ Track monthly and yearly business growth.
 Enable interactive data exploration using filters and slicers.
 
 📈 Visualizations Used
-KPI Cards
-Line Chart
-Bar Chart
-Clustered Column Chart
-Pie Chart
-Donut Chart
-Slicers
+*KPI Cards
+*Line Chart
+*Bar Chart
+*Clustered Column Chart
+*Pie Chart
+*Donut Chart
+*Slicers
 
 | Technology      | Purpose                        |
 | --------------- | ------------------------------ |
@@ -35,11 +35,11 @@ Slicers
 
 The following preprocessing steps were performed:
 
-Removed duplicate records
-Removed null values
-Corrected data types
-Standardized date formats
-Split columns where required
-Renamed columns
-Removed unnecessary columns
-Created calculated columns
+*Removed duplicate records
+*Removed null values
+*Corrected data types
+*Standardized date formats
+*Split columns where required
+*Renamed columns
+*Removed unnecessary columns
+*Created calculated columns
